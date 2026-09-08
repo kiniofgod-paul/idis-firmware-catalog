@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-08T00:00:00Z",
+  "products": [
+    {"model":"DR-6316PS","family":"DirectIP NVR","category":"Recorder","version":"3.2.1","releasedAt":"2026-08-21","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"안정성 및 보안 개선","releaseNotesUrl":"https://www.idisglobal.com/support/download","critical":true,"createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"},
+    {"model":"DC-D4516WRX","family":"5MP IR Dome","category":"Camera","version":"2.4.0","releasedAt":"2026-07-12","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"영상 처리 안정성 개선","createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"},
+    {"model":"DA-TM4100","family":"DirectIP Switch","category":"Network","version":"1.8.3","releasedAt":"2026-06-30","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"네트워크 호환성 개선","createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"},
+    {"model":"DV-2232","family":"HD-TVI DVR","category":"Recorder","version":"1.6.7","releasedAt":"2026-05-18","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"녹화 안정성 개선","createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"},
+    {"model":"IR-300","family":"IDIS Solution Suite","category":"Software","version":"7.4.2","releasedAt":"2026-08-05","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"클라이언트 호환성 개선","createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"},
+    {"model":"DC-S1283WRX","family":"12MP AI Camera","category":"Camera","version":"1.3.1","releasedAt":"2026-08-29","downloadUrl":"https://www.idisglobal.com/support/download","releaseNotes":"AI 분석 및 보안 개선","critical":true,"createdAt":"2026-09-08T00:00:00Z","updatedAt":"2026-09-08T00:00:00Z"}
+  ]
+}
